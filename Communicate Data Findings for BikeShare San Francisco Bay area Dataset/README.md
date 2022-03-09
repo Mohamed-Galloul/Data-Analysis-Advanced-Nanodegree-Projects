@@ -2,6 +2,9 @@
 ## by Mohamed Galloul
 
 
+> **NOTE: Kindly consider looking at the uploaded notebook for full analysis and visualization.**
+
+
 ## Dataset
 
 > This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. [source](https://www.bikeshare.com/data/) 
@@ -42,4 +45,3 @@ Since the traveled distance wasn't provided in the dataset, we can take another 
 - We already know that female member tends to have longer trips than male members but what is interesting in the above barplot is despite the gender of the member customers have longer trips than normal subscribers which is unexpected since customers only use the bike service for only 24 hours or 3 days while subscribers have an annual subscription!
 - Customer female members and subscribe male who were born in [1980, 2020] are more likely to have longer trips.
 
-> **NOTE: Kindly consider looking at the uploaded notebook for full analysis and visualization.**
