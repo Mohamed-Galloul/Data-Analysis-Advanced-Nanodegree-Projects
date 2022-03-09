@@ -2,7 +2,7 @@
 ## by Mohamed Galloul
 
 
-> **NOTE: Kindly consider looking at the uploaded notebook for full analysis and visualization.**
+> **NOTE: Kindly consider taking a look at the uploaded notebook for full analysis and visualization.**
 
 
 ## Dataset
